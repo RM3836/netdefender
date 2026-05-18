@@ -64,4 +64,5 @@ netdefender/
 
 ## 作者
 
-网络工程 2023 级 | 广州应用科技学院
+KaiNan YU (RM3836) | 网络工程 2023 级 | 广州应用科技学院
+GitHub: https://github.com/RM3836
