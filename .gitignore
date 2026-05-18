@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+outputs/*.cfg
+outputs/*.json
+outputs/*.txt
+.venv/
+venv/
+*.swp
+*.swo
+.DS_Store
